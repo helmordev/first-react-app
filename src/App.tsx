@@ -9,9 +9,7 @@ const App = () => {
       <Test />
       <div>hello world</div>
       <div>hahaha</div>
-      <h2>
-        hello world form the cmd terminal
-      </h2>
+      <h2>hello world form the cmd terminal</h2>
     </>
   );
 };
