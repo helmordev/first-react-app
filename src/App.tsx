@@ -7,6 +7,7 @@ const App = () => {
         App test of nvim test
       </div>
       <Test />
+      <div>hello world</div>
     </>
   );
 };
