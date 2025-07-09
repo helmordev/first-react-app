@@ -9,6 +9,7 @@ const Test = () => {
       <Greeting name="me" />
       <Greeting name="who" />
       <Greeting name="haha" />
+      <Greeting name="why I'm here in vim" />
     </>
   );
 };
